@@ -1,4 +1,6 @@
-let firstName: string = "Kevin";
+
+
+export let firstName: string = "Kevin";
 let lastName: string = "Medina";
 
 let fullName: string = firstName + " " + lastName;
