@@ -2,7 +2,7 @@
 
 console.log("Inicio");
 
-export let estaCansado:boolean = true;
+let estaCansado:boolean = true;
 
 if (estaCansado) {
     console.log("Necesito descansar");

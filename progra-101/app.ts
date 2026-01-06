@@ -1,3 +1,3 @@
 
 
-console.log("Inicio");
+console.log("Sacaste una A");
