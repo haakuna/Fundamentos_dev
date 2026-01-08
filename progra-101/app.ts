@@ -1,3 +1,2 @@
 
-
-console.log("Sacaste una A");
+        console.log("Lunes");
