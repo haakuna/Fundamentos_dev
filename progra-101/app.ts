@@ -1,2 +1,1 @@
-
-    console.log(base, ' x ', i , ' = ', (base * i) );
+console.log('Hola Mundo');
