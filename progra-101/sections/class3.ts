@@ -1,4 +1,5 @@
 
+export
 class Car {
     readonly marca: string;
     puertas: number;
